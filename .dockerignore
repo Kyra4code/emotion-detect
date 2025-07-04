@@ -1,0 +1,34 @@
+# Ignora caches e arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.db
+*.sqlite3
+
+# Ignora arquivos de ambiente virtual
+env/
+venv/
+ENV/
+.VENV/
+.venv/
+
+# Ignora arquivos e pastas ocultas do sistema
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de controle de versão
+.git
+.gitignore
+
+# Ignora configurações de editor/IDE
+.vscode/
+.idea/
+
+# Outros arquivos que não precisam ir para o container
+*.env
+*.env.local
+docker-compose.yml
+*.md
+tests/
