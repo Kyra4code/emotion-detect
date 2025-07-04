@@ -42,11 +42,22 @@ cd emotion-detect
    python -m venv venv
    ```
 
-3. instale os pacotes
+3. Ative a venv
+   
+   ```bash-Windows
+   cd venv\Scripts\ && activate
+   ```
+   ```bash-Linux/macOS
+   source venv/bin/activate
+   ```
+   
+
+5. instale os pacotes
    ```bash
    pip install -r requirements.txt
    ```
-4. Rode o projeto
+   
+6. Rode o projeto
    ```python
    uvicorn app:app --port 4000 --host 0.0.0.0
    ```
