@@ -10,8 +10,8 @@
 
 O **EmotionDetect** é um projeto de NLP que classifica emoções humanas com base em texto natural. Usando o poder de modelos pré-treinados como os da biblioteca 🤗 **Transformers**, o sistema é capaz de identificar emoções como:
 
-- 😄 Positividade (`joy`)
-- 😠 Negatividade (`anger`)
+- 😄 Positividade (`Feliz`)
+- 😠 Negatividade (`Triste/Raiva`)
 
 Este projeto pode ser integrado em aplicativos, assistentes virtuais, redes sociais e muito mais.
 
