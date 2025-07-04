@@ -2,7 +2,7 @@
   # 🧠 EmotionDetect - Detecção de Emoções com Transformers
 
 
-> Um projeto simples e poderoso que utiliza modelos **Transformers** para identificar emoções em textos com **Python**. Ideal para experimentos em **NLP**, análise de sentimentos, chatbots, entre outros.
+> Uma API simples e poderosa que utiliza modelos **Transformers** para identificar emoções em textos com **Python**. Ideal para experimentos em **NLP**, análise de sentimentos, chatbots, entre outros.
 
 ---
 
