@@ -21,7 +21,7 @@ Este projeto pode ser integrado em aplicativos, assistentes virtuais, redes soci
 
 - Python 🐍
 - Transformers (HuggingFace) 🤗
-- PyTorch ou TensorFlow (como dependência da importação do modelo)
+- PyTorch (como dependência da importação do modelo)
 - FastAPI (opcional, para API REST)
 - Jupyter Notebook (para testes e experimentos)
 
