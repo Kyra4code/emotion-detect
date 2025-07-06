@@ -54,7 +54,7 @@ cd emotion-detect
 
 5. instale os pacotes
    ```bash
-   pip install -r requirements.txt
+   cd .. && cd .. && pip install -r requirements.txt
    ```
    
 6. Rode o projeto
